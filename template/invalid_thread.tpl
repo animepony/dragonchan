@@ -7,7 +7,7 @@
         <link href="site.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <a target="_blank" href="https://github.com/entomb/dragonchan"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+        <a target="_blank" href="https://github.com/animepony/dragonchan"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
         <div class="ink-container" style="width:90%;">
 
         <h2><?php echo $_gamename;?></h2>
@@ -16,7 +16,7 @@
             <div class="ink-gutter">
                 <div class="ink-l100">
                     <h4>Invalid Thread ID</h4>
-                    <p>The thread (#<?php echo $thread_id; ?>) has expired. <a href="http://boards.4chan.org/bant/">Back to /bant/?</a></p>
+                    <p>The thread (#<?php echo $thread_id; ?>) has expired. <a href="https://mlpol.net/mlpol/">Back to /mlpol/?</a></p>
                 </div>
             </div>
         </div>
