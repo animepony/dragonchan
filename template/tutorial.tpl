@@ -33,9 +33,9 @@
         <div class="ink-l66" style="margin-left:20px;">
             <div class="tutorialPage" id="t_main" style="display:none;">
                 <h2>Main Goal</h2>
-                <p>This is a script that converts any /bant/ thread into a dragon slaying match<p>
+                <p>This is a script that converts any /mlpol/ thread into a dragon slaying match<p>
                 <p>The script parses the thread using the json API and calculates damage/classes and other skills depending on post rolls, images, replies, etc...</p>
-                <p>The main goal is to kill a dragon (or any other boss) by roleplaing on /bant/ posting your hits and skills and checking the script page for damage output and fight status</p>
+                <p>The main goal is to kill a dragon (or any other boss) by roleplaing on /mlpol/ posting your hits and skills and checking the script page for damage output and fight status</p>
                 <p>The game focus on cooperation, as every class depends on eachother for its full benefit, this is why we implemented a diferent set of classes and skills and balanced them in a co-dependent way.</p>
                 <p>Using your class specific skills you can help eachother in the quest of defeating a dragon. if cooperation is not achived the thread will simply die by itself...</p>
             </div>
@@ -54,7 +54,7 @@
             <div class="tutorialPage" id="t_id" style="display:none;">
                 <h2>What is my ID?</h2>
                 <p>
-                    Your ID is a randomly generated hash that 4chan gives you.
+                    Your ID is a randomly generated hash that mlpol gives you.
                 </p>
                 <p>
                     This hash is unique for every thread you enter meaning it will change from thread to thread but not from post to post.This way the script can detect exactly who you are and what have you posted in a thread, thracking the damage for each ID.
@@ -112,7 +112,7 @@
                 <p>The game is very simple. Find a dragonslayer thread and post in it.</p>
                 <p>You will be assigned a class based on your ID and the last 2 digits of every post represent the damage you do.
                    <br/>
-                   You can use this webpage to track the party damage, by placing the 4chan thread ID after the URL.
+                   You can use this webpage to track the party damage, by placing the mlpol thread ID after the URL.
                 </p>
                 <div>
                     <img class="ink-l100 ink-m90 ink-s90" src="images/howto_start.jpg"/>
@@ -130,7 +130,7 @@
 
                     <!-- DON'T change the formatting here. It's supposed to be like this -->
                     <pre style="border: 1px solid black;">
-ITT: /bant/ boss raid!
+ITT: /mlpol/ boss raid!
 
 Rules:
 This huge motherfucking boss appears out of nowhere.
