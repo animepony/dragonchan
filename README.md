@@ -1,7 +1,7 @@
 dragonchan
 ==========
 
-A prototype script to transform any /bant/ thread into a dragon slaying match.
+A prototype script to transform any /mlpol/ thread into a dragon slaying match.
 
 Set up (or hijack) any thread using the template below and copy paste it's ID into this URL:
 
