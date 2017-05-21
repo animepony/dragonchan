@@ -49,7 +49,7 @@ POST TEMPALTE:
 ================
 _use the commands described above to configure the boss_
 ```
-ITT: /bant/ dragon slayer raid!
+ITT: /mlpol/ dragon slayer raid!
 
 Rules:
 This huge motherfucking dragon appears out of nowhere.
