@@ -105,7 +105,7 @@
             */
 
             //boss status
-            $this->BossIMG = "http://t.4cdn.org/bant/".$this->OPost->tim."s.jpg";
+            $this->BossIMG = "https://mlpol.net/mlpol/thumb/".$this->OPost->tim."s.jpg";
             $this->setBossDifficulty('easy');
             $this->BossElement = self::getBossElement($this->OPost->no);
             $this->BossName = "RandomBeast";

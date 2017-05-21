@@ -18,7 +18,7 @@
 
 Class chanCatalog{
 
-    var $api_url = "http://a.4cdn.org/bant/catalog.json";
+    var $api_url = "https://mlpol.net/mlpol/catalog.json";
     var $_is_cached_request = false;
     var $CATALOG;
 

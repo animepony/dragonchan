@@ -4,14 +4,14 @@
  *
  * @author Jonathan Tavares <the.entomb@gmail.com>
  * @license GNU General Public License, version 3
- * @link https://github.com/entomb/dragonchan GitHub Source
+ * @link https://github.com/animepony/dragonchan GitHub Source
  * @filesource
  *
  *
 */
 
 $_version = "1.7.2";
-$_gamename = "Dragonchan";
+$_gamename = "MLPOL RPG";
 
 //EOF
 ?>
